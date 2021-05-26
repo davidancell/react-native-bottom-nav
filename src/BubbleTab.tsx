@@ -88,7 +88,7 @@ const BubbleTab: React.FC<IBubbleTab> = ({
             color={color}
             style={{ opacity: labelOpacity }}
           >
-            {tabName}
+            HI! {tabName}
           </BubbleTabLabel>
         )}
       </AnimatedBubbleTabWrapper>
